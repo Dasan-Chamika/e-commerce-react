@@ -1,12 +1,55 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# E-commerce Frontend
 
-Currently, two official plugins are available:
+A personal e-commerce frontend project built using React, Vite, and Tailwind CSS.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+> **Status:** Work in progress. This project is not yet complete or deployed.
 
-## Expanding the ESLint configuration
+## Overview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project is being developed to practice building a responsive e-commerce interface using React and modern frontend development tools.
+
+## Tech Stack
+
+- React
+- JavaScript
+- Vite
+- Tailwind CSS
+
+## Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Dasan-Chamika/e-commerce-react.git
+```
+
+### 2. Open the project directory
+
+```bash
+cd e-commerce-react
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the development server
+
+```bash
+npm run dev
+```
+
+Follow the local URL displayed in the terminal.
+
+## Project Status
+
+This project is under active development. Features and documentation will be updated as development progresses.
+
+## Developer
+
+Dasan Chamika
+
+[GitHub Profile](https://github.com/Dasan-Chamika)
